@@ -1,5 +1,5 @@
 # Woocommerce Newsman Remarketing plugin for WordPress
-[NewsmanApp](https://www.newsmanapp.com) plugin for Woocommerce allows you to your shop customers.
+[NewsmanApp](https://www.newsmanapp.com) plugin for Woocommerce allows you to track your shop customers.
 
 
 # Download
