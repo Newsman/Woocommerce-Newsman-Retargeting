@@ -17,4 +17,4 @@ Download the latest archive from [here](https://github.com/Newsman/Woocommerce-N
 Some quick screenshots of the plugin features.
 	
 ## Newsman Remarketing plugin settings
-![newsletter plugin settings](https://raw.githubusercontent.com/Newsman/WP-Plugin-NewsmanApp/master/assets/1.jpg)
+![newsletter plugin settings](https://raw.githubusercontent.com/Newsman/Woocommerce-Newsman-Retargeting/master/assets/1.jpg)
